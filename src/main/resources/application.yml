@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+dog:
+  name: zhangbing
+  age: 18
+  dog: B-Dragon
